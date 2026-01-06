@@ -1,0 +1,25 @@
+project_id = "alahnoarwhjczamkuexk"
+
+[functions.google-auth]
+verify_jwt = false
+
+[functions.google-emails]
+verify_jwt = false
+
+[functions.google-calendar]
+verify_jwt = false
+
+[functions.google-drive]
+verify_jwt = false
+
+[functions.google-tasks]
+verify_jwt = false
+
+[functions.summarize-document]
+verify_jwt = false
+
+[functions.summary-chat]
+verify_jwt = false
+
+[functions.elevenlabs-sfx]
+verify_jwt = false
